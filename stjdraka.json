@@ -22,7 +22,7 @@
   ],
   "ads": [
     {
-      "ad_status": 1,
+      "ad_status": 0,
       "main_ad": "google_ad_manager",
       "backup_ad": "none",
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
@@ -37,7 +37,7 @@
       "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
       "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
       "startapp_app_id": "0",
-      "unity_game_id": "4089993",
+      "unity_game_id": "8989277",
       "unity_banner_placement_id": "banner",
       "unity_interstitial_placement_id": "video",
       "applovin_banner_unit_id": "0",
@@ -62,7 +62,7 @@
       "show_interstitial_ad_post_details": true,
       "show_native_ad_post_list": true,
       "show_native_ad_post_details": true,
-      "show_app_open_ad": true
+      "show_app_open_ad": false
     }
   ],
   "categories": [
@@ -116,7 +116,7 @@
     {
       "id": 1,
       "category": "Game, Tips & Trick",
-      "title": "Free Fire: Top 10 best M1014 gun skins in the game",
+      "title": "LIVERY BUSSID V3.7 STJ DRAKA TERBARU",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/free-fire.jpg",
       "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/free-fire.html",
       "video": ""
